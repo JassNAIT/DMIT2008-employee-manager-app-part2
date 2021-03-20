@@ -1,6 +1,6 @@
 window.addEventListener('load',function(){
   //fetch data from localhost
-  fetch(`http://localhost:5000/api/users`,{
+  fetch(`/api/users`,{
     headers : { 
       'Content-Type': 'application/json',
       'Accept': 'application/json'
