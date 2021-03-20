@@ -13,6 +13,7 @@ const loginService = require('./services/loginService');
 const fileService = require('./services/fileService');
 const registerService = require('./services/registerService');
 const departmentRoutes = require('./routes/departmentRouter');
+const userData = require('./data/users');
 
 const PORT = process.env.PORT || 5000
 
@@ -67,17 +68,8 @@ app.get('/register', (req, res) => {
 });
 
 //users
-
-app.get('/api/users', (req, res) => {
-  const data = fileService.getFileContents('../data/users.json')
-  //res.json(data)
-  res.redirect('users');
-})
-
-/*
-app.get('/users', (req, res) => {
-    const data = fileService.readFile('../data/users.json')
-    res.json(data)
+/*app.get('/users', (req, res) => {
+  res.render('users');
 })*/
 
 //login
@@ -154,6 +146,10 @@ app.post('/register', [
 })
 
 //get users from json
+app.get('/api/users', (req, res) => {
+  res.json(userData);
+})
+
 app.use('/api/departments', departmentRoutes())
 
 // if file not found

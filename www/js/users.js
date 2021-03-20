@@ -1,4 +1,5 @@
 window.addEventListener('load',function(){
+  //fetch data from localhost
   fetch(`http://localhost:5000/api/users`,{
     headers : { 
       'Content-Type': 'application/json',
@@ -8,11 +9,14 @@ window.addEventListener('load',function(){
   })
   .then(res=>res.json())
   .then(result=>{
+      //display error if user enter wrong input
       if(result == ""){ 
           const errorTemplate =`<p>No User found.</p>`;
           document.querySelector('.users').innerHTML = errorTemplate;
     }else{
       result.forEach(function(user, index) {
+        //display data in html
+        console.log(result)
          const successTemplate = `<ul>
          <li><span><b>User ID:</b></span> ${user['userid']}</li>
          <li><span><b>Username:</b></span> ${user['username']}</li>
