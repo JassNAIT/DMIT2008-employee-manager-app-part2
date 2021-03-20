@@ -14,7 +14,8 @@
         "../scss/dashboard/_department-manager.scss",
         "../scss/dashboard/_department-employee.scss",
         "../scss/dashboard/_key-points.scss",
-        "../scss/dashboard/_sidebar.scss"
+        "../scss/dashboard/_sidebar.scss",
+        "../scss/_users.scss"
     ],
     "names": [],
     "file": "styles.css"

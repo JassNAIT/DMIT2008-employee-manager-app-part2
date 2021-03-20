@@ -3,7 +3,7 @@
 const controlStrip = `
     <nav class="control-strip">
     <ul>
-        <li class="brand"><h1>employee dashboard</h1></li>
+        <li class="brand"><h1>Employee Dashboard</h1></li>
         <li class="user-controls">
             <img src="assets/svgs/help.svg" alt="">
             <img src="assets/svgs/email.svg" alt="">

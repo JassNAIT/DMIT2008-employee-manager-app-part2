@@ -34,7 +34,7 @@ class Department {
        if(exists.length < employees.length){
          this.writeData(exists )
        }else{
-         console.log("employee not found")
+         console.log("Employee Not Found")
        }
        
   }

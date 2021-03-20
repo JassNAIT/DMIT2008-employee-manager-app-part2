@@ -6,7 +6,7 @@
     "email": "bbarends0@pinterest.com",
     "cellNumber": "983-808-6624",
     "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 54,
     "salary": 36966,
     "vacation": 22
@@ -18,7 +18,7 @@
     "email": "laleswell1@creativecommons.org",
     "cellNumber": "176-687-3970",
     "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 36,
     "salary": 64475,
     "vacation": 18
@@ -30,7 +30,7 @@
     "email": "abarbe2@epa.gov",
     "cellNumber": "220-549-7355",
     "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 55,
     "salary": 120953,
     "vacation": 26
@@ -42,10 +42,10 @@
     "email": "ldoddrell3@stanford.edu",
     "cellNumber": "845-954-4264",
     "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 29,
     "salary": 66109,
-    "role":"supervisor",
+    "role":"Supervisor",
     "vacation": 24
   },
   {
@@ -55,11 +55,11 @@
     "email": "bfligg4@bloomberg.com",
     "cellNumber": "251-174-4403",
     "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 49,
     "salary": 97970,
     "vacation": 7,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 3
   },
   {
@@ -69,7 +69,7 @@
     "email": "rchappel5@exblog.jp",
     "cellNumber": "394-741-7498",
     "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 38,
     "salary": 83706,
     "vacation": 20
@@ -81,7 +81,7 @@
     "email": "ldew6@cafepress.com",
     "cellNumber": "676-152-5994",
     "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
-    "department": "it",
+    "department": "IT",
     "age": 30,
     "salary": 115588,
     "vacation": 28
@@ -93,11 +93,11 @@
     "email": "eriply7@prnewswire.com",
     "cellNumber": "217-376-5647",
     "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 39,
     "salary": 52425,
     "vacation": 29,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 1
   },
   {
@@ -107,7 +107,7 @@
     "email": "vguyet8@sun.com",
     "cellNumber": "133-310-4111",
     "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 30,
     "salary": 103620,
     "vacation": 28
@@ -119,7 +119,7 @@
     "email": "acurneen9@prlog.org",
     "cellNumber": "931-231-1401",
     "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 38,
     "salary": 77155,
     "vacation": 17
@@ -131,7 +131,7 @@
     "email": "jantonoyeva@google.nl",
     "cellNumber": "649-804-3377",
     "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 54,
     "salary": 63098,
     "vacation": 26
@@ -143,7 +143,7 @@
     "email": "cbalffyeb@bluehost.com",
     "cellNumber": "649-987-2340",
     "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 26,
     "salary": 77138,
     "vacation": 12
@@ -155,7 +155,7 @@
     "email": "slempennyc@state.tx.us",
     "cellNumber": "296-916-4385",
     "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 27,
     "salary": 40406,
     "vacation": 15
@@ -167,11 +167,11 @@
     "email": "fkennellyd@over-blog.com",
     "cellNumber": "598-174-1961",
     "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
-    "department": "it",
+    "department": "IT",
     "age": 52,
     "salary": 36330,
     "vacation": 9,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 4
   },
   {
@@ -181,7 +181,7 @@
     "email": "ecrouche@usgs.gov",
     "cellNumber": "578-697-9215",
     "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 47,
     "salary": 123915,
     "vacation": 27
@@ -193,7 +193,7 @@
     "email": "ijefferdf@ed.gov",
     "cellNumber": "838-433-9008",
     "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 59,
     "salary": 122307,
     "vacation": 14
@@ -205,7 +205,7 @@
     "email": "wdoddridgeg@clickbank.net",
     "cellNumber": "101-375-9770",
     "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 39,
     "salary": 86149,
     "vacation": 25
@@ -217,7 +217,7 @@
     "email": "ashotbolth@mapy.cz",
     "cellNumber": "191-897-8448",
     "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 44,
     "salary": 105675,
     "vacation": 30
@@ -229,7 +229,7 @@
     "email": "hruttyi@webeden.co.uk",
     "cellNumber": "227-342-2444",
     "avatar": "https://randomuser.me/api/portraits/women/19.jpg",
-    "department": "it",
+    "department": "IT",
     "age": 47,
     "salary": 45166,
     "vacation": 30
@@ -241,7 +241,7 @@
     "email": "kbodocsj@phoca.cz",
     "cellNumber": "510-687-9889",
     "avatar": "https://randomuser.me/api/portraits/women/20.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 51,
     "salary": 74208,
     "vacation": 18
@@ -253,7 +253,7 @@
     "email": "nhundalk@mapy.cz",
     "cellNumber": "868-691-7476",
     "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 38,
     "salary": 35954,
     "vacation": 8
@@ -277,7 +277,7 @@
     "email": "arosenblumm@yelp.com",
     "cellNumber": "202-784-6549",
     "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 49,
     "salary": 124076,
     "vacation": 8
@@ -289,11 +289,11 @@
     "email": "mhosburnn@squidoo.com",
     "cellNumber": "292-738-8697",
     "avatar": "https://randomuser.me/api/portraits/women/24.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 50,
     "salary": 85604,
     "vacation": 28,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 6
   },
   {
@@ -303,7 +303,7 @@
     "email": "imcgillo@taobao.com",
     "cellNumber": "806-789-6085",
     "avatar": "https://randomuser.me/api/portraits/women/25.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 30,
     "salary": 80192,
     "vacation": 18
@@ -327,7 +327,7 @@
     "email": "jkirrage1@irs.gov",
     "cellNumber": "981-949-4364",
     "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 48,
     "salary": 104683,
     "vacation": 29
@@ -339,7 +339,7 @@
     "email": "tcragoe2@chicagotribune.com",
     "cellNumber": "422-278-2909",
     "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 36,
     "salary": 110030,
     "vacation": 27
@@ -351,11 +351,11 @@
     "email": "fheadly3@washingtonpost.com",
     "cellNumber": "606-354-1941",
     "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 44,
     "salary": 75642,
     "vacation": 28,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 2
   },
   {
@@ -365,7 +365,7 @@
     "email": "sjozsa4@stanford.edu",
     "cellNumber": "617-943-0721",
     "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 39,
     "salary": 50790,
     "vacation": 29
@@ -377,7 +377,7 @@
     "email": "lslatter5@army.mil",
     "cellNumber": "853-188-7429",
     "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 34,
     "salary": 120178,
     "vacation": 7
@@ -389,7 +389,7 @@
     "email": "gsouster6@arizona.edu",
     "cellNumber": "426-620-3451",
     "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 44,
     "salary": 49303,
     "vacation": 29
@@ -401,7 +401,7 @@
     "email": "salcido7@unicef.org",
     "cellNumber": "951-721-1307",
     "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
-    "department": "human resources",
+    "department": "Human Resources",
     "age": 34,
     "salary": 78888,
     "vacation": 23
@@ -413,7 +413,7 @@
     "email": "acheetham8@accuweather.com",
     "cellNumber": "436-178-0457",
     "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 39,
     "salary": 120641,
     "vacation": 9
@@ -425,7 +425,7 @@
     "email": "aoertzen9@livejournal.com",
     "cellNumber": "786-287-1483",
     "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
-    "department": "it",
+    "department": "IT",
     "age": 32,
     "salary": 80254,
     "vacation": 15
@@ -437,7 +437,7 @@
     "email": "arubertellia@illinois.edu",
     "cellNumber": "733-461-5966",
     "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 50,
     "salary": 84158,
     "vacation": 7
@@ -449,7 +449,7 @@
     "email": "ahicklingbottomb@istockphoto.com",
     "cellNumber": "813-989-0223",
     "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 29,
     "salary": 68815,
     "vacation": 18
@@ -461,7 +461,7 @@
     "email": "pspragingc@a8.net",
     "cellNumber": "912-902-0186",
     "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
-    "department": "marketing",
+    "department": "Marketing",
     "age": 60,
     "salary": 102103,
     "vacation": 17
@@ -473,7 +473,7 @@
     "email": "sdevonaldd@nsw.gov.au",
     "cellNumber": "447-655-4729",
     "avatar": "https://randomuser.me/api/portraits/men/14.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 34,
     "salary": 98893,
     "vacation": 14
@@ -485,7 +485,7 @@
     "email": "msmallese@theglobeandmail.com",
     "cellNumber": "671-652-5075",
     "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 27,
     "salary": 39081,
     "vacation": 16
@@ -497,7 +497,7 @@
     "email": "nbournerf@eepurl.com",
     "cellNumber": "247-387-6859",
     "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 41,
     "salary": 116428,
     "vacation": 12
@@ -509,7 +509,7 @@
     "email": "cpoynterg@baidu.com",
     "cellNumber": "413-913-0816",
     "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 50,
     "salary": 114907,
     "vacation": 18
@@ -521,7 +521,7 @@
     "email": "cpettegreh@plala.or.jp",
     "cellNumber": "745-483-5002",
     "avatar": "https://randomuser.me/api/portraits/men/18.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 60,
     "salary": 41837,
     "vacation": 29
@@ -533,7 +533,7 @@
     "email": "gockleshawi@nature.com",
     "cellNumber": "942-515-5390",
     "avatar": "https://randomuser.me/api/portraits/men/19.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 52,
     "salary": 93658,
     "vacation": 29
@@ -545,7 +545,7 @@
     "email": "llemarj@oakley.com",
     "cellNumber": "529-775-1625",
     "avatar": "https://randomuser.me/api/portraits/men/20.jpg",
-    "department": "training",
+    "department": "Training",
     "age": 60,
     "salary": 46155,
     "vacation": 19
@@ -557,11 +557,11 @@
     "email": "dolennanek@comsenz.com",
     "cellNumber": "790-331-1363",
     "avatar": "https://randomuser.me/api/portraits/men/21.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 37,
     "salary": 37271,
     "vacation": 30,
-    "role": "supervisor",
+    "role": "Supervisor",
     "departmentId": 5
   },
   {
@@ -571,7 +571,7 @@
     "email": "dblatcherl@twitpic.com",
     "cellNumber": "957-451-8129",
     "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
-    "department": "support",
+    "department": "Support",
     "age": 25,
     "salary": 95804,
     "vacation": 11
@@ -583,7 +583,7 @@
     "email": "bthreadgouldm@networksolutions.com",
     "cellNumber": "864-808-9420",
     "avatar": "https://randomuser.me/api/portraits/men/23.jpg",
-    "department": "sales",
+    "department": "Sales",
     "age": 51,
     "salary": 75756,
     "vacation": 28
@@ -595,7 +595,7 @@
     "email": "btowlern@cdc.gov",
     "cellNumber": "353-508-5296",
     "avatar": "https://randomuser.me/api/portraits/men/24.jpg",
-    "department": "production",
+    "department": "Production",
     "age": 41,
     "salary": 37985,
     "vacation": 30
@@ -607,7 +607,7 @@
     "email": "saristideo@illinois.edu",
     "cellNumber": "704-624-8979",
     "avatar": "https://randomuser.me/api/portraits/men/25.jpg",
-    "department": "it",
+    "department": "IT",
     "age": 54,
     "salary": 92950,
     "vacation": 28

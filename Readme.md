@@ -1,4 +1,4 @@
-# Employee Manager Day 10
+# Employee Manager App - Login, Registration and Dashboard
 
 __Install__. 
 To start install the project node_modules by running ```npm install```
