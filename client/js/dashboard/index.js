@@ -22,7 +22,7 @@ eventManager.handle.addEventListener('updateDisplay', (e)=>{
 
 const appInit = async function (){
        const departmentData = await dataFetcher.getRequest(api.getAllDepartments)
-       const defaultWidgitData = await dataFetcher.getRequest(api.getDepartment("training"))
+       const defaultWidgitData = await dataFetcher.getRequest(api.getDepartment("Training"))
        console.log(departmentData)
        sideBar.init(departmentData)
        displayPanel.init(defaultWidgitData)
